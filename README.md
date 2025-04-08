@@ -144,7 +144,6 @@ Isso permitirá que você veja os **IDs**, **títulos**, **posições** e **tama
 
 Para pegar o layout e o posicionamento dos objetos dentro de um aplicativo no Qlik Sense, você pode usar os métodos da API como `getAppLayout()`, `getList('SheetList')`, `getSheet()` e `getObjects()`. Esses métodos permitem obter as propriedades detalhadas de cada objeto, incluindo a **posição** e o **tamanho** dentro das sheets.
 
-Se você precisar de mais ajuda para ajustar o código ou encontrar mais informações sobre a API do Qlik, fique à vontade para perguntar!
 
 ---
 
