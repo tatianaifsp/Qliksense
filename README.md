@@ -1,6 +1,8 @@
 Tutorial de desenvolvimento do Qlik Sense Mashup 
 
 https://community.qlik.com/t5/Qlik-Sense-Documents/Qlik-Sense-Mashup-Development-Tutorial/ta-p/1576213
+https://help.qlik.com/en-US/sense-developer/November2024/Subsystems/APIs/Content/Sense_ClientAPIs/CapabilityAPIs/AppAPI/getObject-method.htm
+
 
 Explicando como obter o **layout** e o **posicionamento** dos objetos dentro de um aplicativo Qlik Sense utilizando a API JavaScript.
 
